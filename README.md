@@ -15,7 +15,7 @@ Name: **Brixon Jumba**
 > A representation of a plan or theory in the form of an outline or model such as **data type**,**tables** and **columns**.
 
 ### Bonus Question
-> A **list** uses ordered collection of items like *a sequence of user actions* or *a list of tasks where order matters* while a **dictionary** store data in a structured manner associated with unique identifiers such as *user profiles with names*, *ages*, and *cities*.
+> A **List** uses ordered collection of items like *a sequence of user actions* or *a list of tasks where order matters* while a **Dictionary** store data in a structured manner associated with unique identifiers such as *user profiles with names*, *ages*, and *cities*.
 
   
 
