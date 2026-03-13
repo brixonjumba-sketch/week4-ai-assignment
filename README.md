@@ -8,8 +8,8 @@ Name: **Brixon Jumba**
   
 ## Question 2
 > **Structured** data follows a strict schema while **Unstructured** data has no consistent format.
--Example of stractured data includes: *Financial Records* and *Numeric Data*
--Example of Unstractured data includes: *Multimedia* and *Text Documents*.
+-Example of structured data includes: *Financial Records* and *Numeric Data*
+-Example of Unstructured data includes: *Multimedia* and *Text Documents*.
 
 ## Question 3
 > A **Schema** is a representation of a plan or theory in the form of an outline or model such as *data type*,*tables* and  *columns*.
